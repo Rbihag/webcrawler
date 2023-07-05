@@ -1,0 +1,16 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "install nvm:\r curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.0"
+  }
+}
